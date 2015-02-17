@@ -1,0 +1,42 @@
+.container{
+	max-width:800px;
+	margin:0px auto 0px auto;
+}
+
+.galleryBox{
+	background-color:#e3e3e3;
+	margin:0px auto 0px auto;
+	padding:10px;
+}
+
+.galleryPhotos{
+	background-color:#eee;
+	margin:15px auto 0px auto;
+	padding:10px;
+	max-width:570px;	
+}
+
+.galPhotoleft{
+	float:left;
+	display:inline;
+	margin: 0px 10px 10px 0px;
+}
+
+.galPhotoright{
+	float:left;
+	display:inline;
+	margin: 0px 0px 10px 0px;
+}
+
+.thumbnailLink{
+	background-color:#000;
+	color:#fff;
+	display:none;
+	padding:10px;
+	width:100%;
+	margin:10px 0px;
+}
+
+.thumbnailLink a{
+	color:#fff;
+}
